@@ -13,9 +13,12 @@ parts.map((item) => {
 
 export default function Home() {
   const [axieParts, setAxieParts] = useState(parts)
+  for(let i = 0 ; i < parts.length ; i ++){
+    console.log(`https://cdn.axieinfinity.com/marketplace-website/asset-icon/parts/${parts[i].part_id}.png`)
+  }
 
   useEffect(() => {
-
+    
   }, [axieParts])
 
 

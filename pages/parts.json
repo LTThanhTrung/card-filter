@@ -1,0 +1,1538 @@
+[
+    {
+        "part_id": "eyes-gero",
+        "class": "aquatic",
+        "special_genes": "",
+        "type": "eyes",
+        "name": "Gero",
+        "ability_id": "aquatic-eyes-08"
+    },
+    {
+        "part_id": "eyes-sleepless",
+        "class": "aquatic",
+        "special_genes": "",
+        "type": "eyes",
+        "name": "Sleepless",
+        "ability_id": "aquatic-eyes-02"
+    },
+    {
+        "part_id": "eyes-clear",
+        "class": "aquatic",
+        "special_genes": "",
+        "type": "eyes",
+        "name": "Clear",
+        "ability_id": "aquatic-eyes-04"
+    },
+    {
+        "part_id": "eyes-telescope",
+        "class": "aquatic",
+        "special_genes": "",
+        "type": "eyes",
+        "name": "Telescope",
+        "ability_id": "aquatic-eyes-10"
+    },
+    {
+        "part_id": "ears-tiny-fan",
+        "class": "aquatic",
+        "special_genes": "",
+        "type": "ears",
+        "name": "Tiny Fan",
+        "ability_id": "aquatic-ears-04"
+    },
+    {
+        "part_id": "ears-bubblemaker",
+        "class": "aquatic",
+        "special_genes": "",
+        "type": "ears",
+        "name": "Bubblemaker",
+        "ability_id": "aquatic-ears-06"
+    },
+    {
+        "part_id": "ears-gill",
+        "class": "aquatic",
+        "special_genes": "",
+        "type": "ears",
+        "name": "Gill",
+        "ability_id": "aquatic-ears-10"
+    },
+    {
+        "part_id": "ears-inkling",
+        "class": "aquatic",
+        "special_genes": "",
+        "type": "ears",
+        "name": "Inkling",
+        "ability_id": "aquatic-ears-08"
+    },
+    {
+        "part_id": "ears-nimo",
+        "class": "aquatic",
+        "special_genes": "",
+        "type": "ears",
+        "name": "Nimo",
+        "ability_id": "aquatic-ears-02"
+    },
+    {
+        "part_id": "ears-seaslug",
+        "class": "aquatic",
+        "special_genes": "",
+        "type": "ears",
+        "name": "Seaslug",
+        "ability_id": "aquatic-ears-12"
+    },
+    {
+        "part_id": "eyes-zeal",
+        "class": "beast",
+        "special_genes": "",
+        "type": "eyes",
+        "name": "Zeal",
+        "ability_id": "beast-eyes-02"
+    },
+    {
+        "part_id": "eyes-chubby",
+        "class": "beast",
+        "special_genes": "",
+        "type": "eyes",
+        "name": "Chubby",
+        "ability_id": "beast-eyes-10"
+    },
+    {
+        "part_id": "ears-nut-cracker",
+        "class": "beast",
+        "special_genes": "",
+        "type": "ears",
+        "name": "Nut Cracker",
+        "ability_id": "beast-ears-04"
+    },
+    {
+        "part_id": "eyes-puppy",
+        "class": "beast",
+        "special_genes": "",
+        "type": "eyes",
+        "name": "Puppy",
+        "ability_id": "beast-eyes-08"
+    },
+    {
+        "part_id": "ears-innocent-lamb",
+        "class": "beast",
+        "special_genes": "",
+        "type": "ears",
+        "name": "Innocent Lamb",
+        "ability_id": "beast-ears-06"
+    },
+    {
+        "part_id": "ears-nyan",
+        "class": "beast",
+        "special_genes": "",
+        "type": "ears",
+        "name": "Nyan",
+        "ability_id": "beast-ears-02"
+    },
+    {
+        "part_id": "eyes-little-peas",
+        "class": "beast",
+        "special_genes": "",
+        "type": "eyes",
+        "name": "Little Peas",
+        "ability_id": "beast-eyes-04"
+    },
+    {
+        "part_id": "ears-belieber",
+        "class": "beast",
+        "special_genes": "",
+        "type": "ears",
+        "name": "Belieber",
+        "ability_id": "beast-ears-12"
+    },
+    {
+        "part_id": "ears-puppy",
+        "class": "beast",
+        "special_genes": "",
+        "type": "ears",
+        "name": "Puppy",
+        "ability_id": "beast-ears-10"
+    },
+    {
+        "part_id": "ears-zen",
+        "class": "beast",
+        "special_genes": "",
+        "type": "ears",
+        "name": "Zen",
+        "ability_id": "beast-ears-08"
+    },
+    {
+        "part_id": "eyes-little-owl",
+        "class": "bird",
+        "special_genes": "",
+        "type": "eyes",
+        "name": "Little Owl",
+        "ability_id": "bird-eyes-08"
+    },
+    {
+        "part_id": "eyes-lucas",
+        "class": "bird",
+        "special_genes": "",
+        "type": "eyes",
+        "name": "Lucas",
+        "ability_id": "bird-eyes-04"
+    },
+    {
+        "part_id": "eyes-mavis",
+        "class": "bird",
+        "special_genes": "",
+        "type": "eyes",
+        "name": "Mavis",
+        "ability_id": "bird-eyes-02"
+    },
+    {
+        "part_id": "ears-pink-cheek",
+        "class": "bird",
+        "special_genes": "",
+        "type": "ears",
+        "name": "Pink Cheek",
+        "ability_id": "bird-ears-02"
+    },
+    {
+        "part_id": "eyes-robin",
+        "class": "bird",
+        "special_genes": "",
+        "type": "eyes",
+        "name": "Robin",
+        "ability_id": "bird-eyes-10"
+    },
+    {
+        "part_id": "ears-early-bird",
+        "class": "bird",
+        "special_genes": "",
+        "type": "ears",
+        "name": "Early Bird",
+        "ability_id": "bird-ears-04"
+    },
+    {
+        "part_id": "ears-owl",
+        "class": "bird",
+        "special_genes": "",
+        "type": "ears",
+        "name": "Owl",
+        "ability_id": "bird-ears-06"
+    },
+    {
+        "part_id": "ears-risky-bird",
+        "class": "bird",
+        "special_genes": "",
+        "type": "ears",
+        "name": "Risky Bird",
+        "ability_id": "bird-ears-12"
+    },
+    {
+        "part_id": "ears-curly",
+        "class": "bird",
+        "special_genes": "",
+        "type": "ears",
+        "name": "Curly",
+        "ability_id": "bird-ears-10"
+    },
+    {
+        "part_id": "ears-peace-maker",
+        "class": "bird",
+        "special_genes": "",
+        "type": "ears",
+        "name": "Peace Maker",
+        "ability_id": "bird-ears-08"
+    },
+    {
+        "part_id": "eyes-bookworm",
+        "class": "bug",
+        "special_genes": "",
+        "type": "eyes",
+        "name": "Bookworm",
+        "ability_id": "bug-eyes-02"
+    },
+    {
+        "part_id": "eyes-neo",
+        "class": "bug",
+        "special_genes": "",
+        "type": "eyes",
+        "name": "Neo",
+        "ability_id": "bug-eyes-04"
+    },
+    {
+        "part_id": "eyes-nerdy",
+        "class": "bug",
+        "special_genes": "",
+        "type": "eyes",
+        "name": "Nerdy",
+        "ability_id": "bug-eyes-08"
+    },
+    {
+        "part_id": "eyes-kotaro",
+        "class": "bug",
+        "special_genes": "",
+        "type": "eyes",
+        "name": "Kotaro?",
+        "ability_id": "bug-eyes-10"
+    },
+    {
+        "part_id": "ears-larva",
+        "class": "bug",
+        "special_genes": "",
+        "type": "ears",
+        "name": "Larva",
+        "ability_id": "bug-ears-02"
+    },
+    {
+        "part_id": "ears-beetle-spike",
+        "class": "bug",
+        "special_genes": "",
+        "type": "ears",
+        "name": "Beetle Spike",
+        "ability_id": "bug-ears-04"
+    },
+    {
+        "part_id": "ears-ear-breathing",
+        "class": "bug",
+        "special_genes": "",
+        "type": "ears",
+        "name": "Ear Breathing",
+        "ability_id": "bug-ears-06"
+    },
+    {
+        "part_id": "ears-leaf-bug",
+        "class": "bug",
+        "special_genes": "",
+        "type": "ears",
+        "name": "Leaf Bug",
+        "ability_id": "bug-ears-08"
+    },
+    {
+        "part_id": "ears-tassels",
+        "class": "bug",
+        "special_genes": "",
+        "type": "ears",
+        "name": "Tassels",
+        "ability_id": "bug-ears-10"
+    },
+    {
+        "part_id": "ears-earwing",
+        "class": "bug",
+        "special_genes": "",
+        "type": "ears",
+        "name": "Earwing",
+        "ability_id": "bug-ears-12"
+    },
+    {
+        "part_id": "ears-sidebarb",
+        "class": "reptile",
+        "special_genes": "",
+        "type": "ears",
+        "name": "Sidebarb",
+        "ability_id": "reptile-ears-12"
+    },
+    {
+        "part_id": "ears-swirl",
+        "class": "reptile",
+        "special_genes": "",
+        "type": "ears",
+        "name": "Swirl",
+        "ability_id": "reptile-ears-10"
+    },
+    {
+        "part_id": "eyes-papi",
+        "class": "plant",
+        "special_genes": "",
+        "type": "eyes",
+        "name": "Papi",
+        "ability_id": "plant-eyes-02"
+    },
+    {
+        "part_id": "ears-lotus",
+        "class": "plant",
+        "special_genes": "",
+        "type": "ears",
+        "name": "Lotus",
+        "ability_id": "plant-ears-12"
+    },
+    {
+        "part_id": "eyes-blossom",
+        "class": "plant",
+        "special_genes": "",
+        "type": "eyes",
+        "name": "Blossom",
+        "ability_id": "plant-eyes-10"
+    },
+    {
+        "part_id": "eyes-tricky",
+        "class": "reptile",
+        "special_genes": "",
+        "type": "eyes",
+        "name": "Tricky",
+        "ability_id": "reptile-eyes-04"
+    },
+    {
+        "part_id": "ears-small-frill",
+        "class": "reptile",
+        "special_genes": "",
+        "type": "ears",
+        "name": "Small Frill",
+        "ability_id": "reptile-ears-08"
+    },
+    {
+        "part_id": "eyes-scar",
+        "class": "reptile",
+        "special_genes": "",
+        "type": "eyes",
+        "name": "Scar",
+        "ability_id": "reptile-eyes-08"
+    },
+    {
+        "part_id": "eyes-cucumber-slice",
+        "class": "plant",
+        "special_genes": "",
+        "type": "eyes",
+        "name": "Cucumber Slice",
+        "ability_id": "plant-eyes-08"
+    },
+    {
+        "part_id": "eyes-confused",
+        "class": "plant",
+        "special_genes": "",
+        "type": "eyes",
+        "name": "Confused",
+        "ability_id": "plant-eyes-04"
+    },
+    {
+        "part_id": "eyes-gecko",
+        "class": "reptile",
+        "special_genes": "",
+        "type": "eyes",
+        "name": "Gecko",
+        "ability_id": "reptile-eyes-02"
+    },
+    {
+        "part_id": "ears-clover",
+        "class": "plant",
+        "special_genes": "",
+        "type": "ears",
+        "name": "Clover",
+        "ability_id": "plant-ears-04"
+    },
+    {
+        "part_id": "ears-friezard",
+        "class": "reptile",
+        "special_genes": "",
+        "type": "ears",
+        "name": "Friezard",
+        "ability_id": "reptile-ears-04"
+    },
+    {
+        "part_id": "ears-sakura",
+        "class": "plant",
+        "special_genes": "",
+        "type": "ears",
+        "name": "Sakura",
+        "ability_id": "plant-ears-08"
+    },
+    {
+        "part_id": "eyes-topaz",
+        "class": "reptile",
+        "special_genes": "",
+        "type": "eyes",
+        "name": "Topaz",
+        "ability_id": "reptile-eyes-10"
+    },
+    {
+        "part_id": "ears-leafy",
+        "class": "plant",
+        "special_genes": "",
+        "type": "ears",
+        "name": "Leafy",
+        "ability_id": "plant-ears-02"
+    },
+    {
+        "part_id": "ears-rosa",
+        "class": "plant",
+        "special_genes": "",
+        "type": "ears",
+        "name": "Rosa",
+        "ability_id": "plant-ears-06"
+    },
+    {
+        "part_id": "ears-pogona",
+        "class": "reptile",
+        "special_genes": "",
+        "type": "ears",
+        "name": "Pogona",
+        "ability_id": "reptile-ears-02"
+    },
+    {
+        "part_id": "ears-hollow",
+        "class": "plant",
+        "special_genes": "",
+        "type": "ears",
+        "name": "Hollow",
+        "ability_id": "plant-ears-10"
+    },
+    {
+        "part_id": "ears-curved-spine",
+        "class": "reptile",
+        "special_genes": "",
+        "type": "ears",
+        "name": "Curved Spine",
+        "ability_id": "reptile-ears-06"
+    },
+    {
+        "part_id": "mouth-lam",
+        "class": "aquatic",
+        "special_genes": "",
+        "type": "mouth",
+        "name": "Lam",
+        "ability_id": "aquatic-mouth-02"
+    },
+    {
+        "part_id": "mouth-risky-fish",
+        "class": "aquatic",
+        "special_genes": "",
+        "type": "mouth",
+        "name": "Risky Fish",
+        "ability_id": "aquatic-mouth-08"
+    },
+    {
+        "part_id": "mouth-piranha",
+        "class": "aquatic",
+        "special_genes": "",
+        "type": "mouth",
+        "name": "Piranha",
+        "ability_id": "aquatic-mouth-10"
+    },
+    {
+        "part_id": "horn-babylonia",
+        "class": "aquatic",
+        "special_genes": "",
+        "type": "horn",
+        "name": "Babylonia",
+        "ability_id": "aquatic-horn-02"
+    },
+    {
+        "part_id": "horn-teal-shell",
+        "class": "aquatic",
+        "special_genes": "",
+        "type": "horn",
+        "name": "Teal Shell",
+        "ability_id": "aquatic-horn-04"
+    },
+    {
+        "part_id": "mouth-catfish",
+        "class": "aquatic",
+        "special_genes": "",
+        "type": "mouth",
+        "name": "Catfish",
+        "ability_id": "aquatic-mouth-04"
+    },
+    {
+        "part_id": "horn-anemone",
+        "class": "aquatic",
+        "special_genes": "",
+        "type": "horn",
+        "name": "Anemone",
+        "ability_id": "aquatic-horn-08"
+    },
+    {
+        "part_id": "horn-clamshell",
+        "class": "aquatic",
+        "special_genes": "",
+        "type": "horn",
+        "name": "Clamshell",
+        "ability_id": "aquatic-horn-06"
+    },
+    {
+        "part_id": "horn-shoal-star",
+        "class": "aquatic",
+        "special_genes": "",
+        "type": "horn",
+        "name": "Shoal Star",
+        "ability_id": "aquatic-horn-12"
+    },
+    {
+        "part_id": "back-blue-moon",
+        "class": "aquatic",
+        "special_genes": "",
+        "type": "back",
+        "name": "Blue Moon",
+        "ability_id": "aquatic-back-04"
+    },
+    {
+        "part_id": "back-sponge",
+        "class": "aquatic",
+        "special_genes": "",
+        "type": "back",
+        "name": "Sponge",
+        "ability_id": "aquatic-back-08"
+    },
+    {
+        "part_id": "horn-oranda",
+        "class": "aquatic",
+        "special_genes": "",
+        "type": "horn",
+        "name": "Oranda",
+        "ability_id": "aquatic-horn-10"
+    },
+    {
+        "part_id": "back-hermit",
+        "class": "aquatic",
+        "special_genes": "",
+        "type": "back",
+        "name": "Hermit",
+        "ability_id": "aquatic-back-02"
+    },
+    {
+        "part_id": "back-goldfish",
+        "class": "aquatic",
+        "special_genes": "",
+        "type": "back",
+        "name": "Goldfish",
+        "ability_id": "aquatic-back-06"
+    },
+    {
+        "part_id": "tail-koi",
+        "class": "aquatic",
+        "special_genes": "",
+        "type": "tail",
+        "name": "Koi",
+        "ability_id": "aquatic-tail-02"
+    },
+    {
+        "part_id": "back-anemone",
+        "class": "aquatic",
+        "special_genes": "",
+        "type": "back",
+        "name": "Anemone",
+        "ability_id": "aquatic-back-10"
+    },
+    {
+        "part_id": "tail-nimo",
+        "class": "aquatic",
+        "special_genes": "",
+        "type": "tail",
+        "name": "Nimo",
+        "ability_id": "aquatic-tail-04"
+    },
+    {
+        "part_id": "tail-navaga",
+        "class": "aquatic",
+        "special_genes": "",
+        "type": "tail",
+        "name": "Navaga",
+        "ability_id": "aquatic-tail-10"
+    },
+    {
+        "part_id": "back-perch",
+        "class": "aquatic",
+        "special_genes": "",
+        "type": "back",
+        "name": "Perch",
+        "ability_id": "aquatic-back-12"
+    },
+    {
+        "part_id": "tail-tadpole",
+        "class": "aquatic",
+        "special_genes": "",
+        "type": "tail",
+        "name": "Tadpole",
+        "ability_id": "aquatic-tail-06"
+    },
+    {
+        "part_id": "tail-ranchu",
+        "class": "aquatic",
+        "special_genes": "",
+        "type": "tail",
+        "name": "Ranchu",
+        "ability_id": "aquatic-tail-08"
+    },
+    {
+        "part_id": "tail-shrimp",
+        "class": "aquatic",
+        "special_genes": "",
+        "type": "tail",
+        "name": "Shrimp",
+        "ability_id": "aquatic-tail-12"
+    },
+    {
+        "part_id": "mouth-goda",
+        "class": "beast",
+        "special_genes": "",
+        "type": "mouth",
+        "name": "Goda",
+        "ability_id": "beast-mouth-04"
+    },
+    {
+        "part_id": "mouth-axie-kiss",
+        "class": "beast",
+        "special_genes": "",
+        "type": "mouth",
+        "name": "Axie Kiss",
+        "ability_id": "beast-mouth-08"
+    },
+    {
+        "part_id": "mouth-confident",
+        "class": "beast",
+        "special_genes": "",
+        "type": "mouth",
+        "name": "Confident",
+        "ability_id": "beast-mouth-10"
+    },
+    {
+        "part_id": "horn-imp",
+        "class": "beast",
+        "special_genes": "",
+        "type": "horn",
+        "name": "Imp",
+        "ability_id": "beast-horn-04"
+    },
+    {
+        "part_id": "mouth-nut-cracker",
+        "class": "beast",
+        "special_genes": "",
+        "type": "mouth",
+        "name": "Nut Cracker",
+        "ability_id": "beast-mouth-02"
+    },
+    {
+        "part_id": "horn-dual-blade",
+        "class": "beast",
+        "special_genes": "",
+        "type": "horn",
+        "name": "Dual Blade",
+        "ability_id": "beast-horn-10"
+    },
+    {
+        "part_id": "horn-pocky",
+        "class": "beast",
+        "special_genes": "",
+        "type": "horn",
+        "name": "Pocky",
+        "ability_id": "beast-horn-08"
+    },
+    {
+        "part_id": "horn-little-branch",
+        "class": "beast",
+        "special_genes": "",
+        "type": "horn",
+        "name": "Little Branch",
+        "ability_id": "beast-horn-02"
+    },
+    {
+        "part_id": "back-ronin",
+        "class": "beast",
+        "special_genes": "",
+        "type": "back",
+        "name": "Ronin",
+        "ability_id": "beast-back-02"
+    },
+    {
+        "part_id": "horn-arco",
+        "class": "beast",
+        "special_genes": "",
+        "type": "horn",
+        "name": "Arco",
+        "ability_id": "beast-horn-12"
+    },
+    {
+        "part_id": "horn-merry",
+        "class": "beast",
+        "special_genes": "",
+        "type": "horn",
+        "name": "Merry",
+        "ability_id": "beast-horn-06"
+    },
+    {
+        "part_id": "back-hero",
+        "class": "beast",
+        "special_genes": "",
+        "type": "back",
+        "name": "Hero",
+        "ability_id": "beast-back-04"
+    },
+    {
+        "part_id": "back-jaguar",
+        "class": "beast",
+        "special_genes": "",
+        "type": "back",
+        "name": "Jaguar",
+        "ability_id": "beast-back-06"
+    },
+    {
+        "part_id": "back-timber",
+        "class": "beast",
+        "special_genes": "",
+        "type": "back",
+        "name": "Timber",
+        "ability_id": "beast-back-10"
+    },
+    {
+        "part_id": "back-risky-beast",
+        "class": "beast",
+        "special_genes": "",
+        "type": "back",
+        "name": "Risky Beast",
+        "ability_id": "beast-back-08"
+    },
+    {
+        "part_id": "back-furball",
+        "class": "beast",
+        "special_genes": "",
+        "type": "back",
+        "name": "Furball",
+        "ability_id": "beast-back-12"
+    },
+    {
+        "part_id": "tail-cottontail",
+        "class": "beast",
+        "special_genes": "",
+        "type": "tail",
+        "name": "Cottontail",
+        "ability_id": "beast-tail-02"
+    },
+    {
+        "part_id": "tail-rice",
+        "class": "beast",
+        "special_genes": "",
+        "type": "tail",
+        "name": "Rice",
+        "ability_id": "beast-tail-04"
+    },
+    {
+        "part_id": "tail-shiba",
+        "class": "beast",
+        "special_genes": "",
+        "type": "tail",
+        "name": "Shiba",
+        "ability_id": "beast-tail-06"
+    },
+    {
+        "part_id": "tail-hare",
+        "class": "beast",
+        "special_genes": "",
+        "type": "tail",
+        "name": "Hare",
+        "ability_id": "beast-tail-08"
+    },
+    {
+        "part_id": "tail-gerbil",
+        "class": "beast",
+        "special_genes": "",
+        "type": "tail",
+        "name": "Gerbil",
+        "ability_id": "beast-tail-12"
+    },
+    {
+        "part_id": "tail-nut-cracker",
+        "class": "beast",
+        "special_genes": "",
+        "type": "tail",
+        "name": "Nut Cracker",
+        "ability_id": "beast-tail-10"
+    },
+    {
+        "part_id": "mouth-doubletalk",
+        "class": "bird",
+        "special_genes": "",
+        "type": "mouth",
+        "name": "Doubletalk",
+        "ability_id": "bird-mouth-02"
+    },
+    {
+        "part_id": "mouth-peace-maker",
+        "class": "bird",
+        "special_genes": "",
+        "type": "mouth",
+        "name": "Peace Maker",
+        "ability_id": "bird-mouth-04"
+    },
+    {
+        "part_id": "mouth-hungry-bird",
+        "class": "bird",
+        "special_genes": "",
+        "type": "mouth",
+        "name": "Hungry Bird",
+        "ability_id": "bird-mouth-08"
+    },
+    {
+        "part_id": "mouth-little-owl",
+        "class": "bird",
+        "special_genes": "",
+        "type": "mouth",
+        "name": "Little Owl",
+        "ability_id": "bird-mouth-10"
+    },
+    {
+        "part_id": "horn-eggshell",
+        "class": "bird",
+        "special_genes": "",
+        "type": "horn",
+        "name": "Eggshell",
+        "ability_id": "bird-horn-02"
+    },
+    {
+        "part_id": "horn-cuckoo",
+        "class": "bird",
+        "special_genes": "",
+        "type": "horn",
+        "name": "Cuckoo",
+        "ability_id": "bird-horn-04"
+    },
+    {
+        "part_id": "horn-kestrel",
+        "class": "bird",
+        "special_genes": "",
+        "type": "horn",
+        "name": "Kestrel",
+        "ability_id": "bird-horn-08"
+    },
+    {
+        "part_id": "horn-trump",
+        "class": "bird",
+        "special_genes": "",
+        "type": "horn",
+        "name": "Trump",
+        "ability_id": "bird-horn-06"
+    },
+    {
+        "part_id": "horn-wing-horn",
+        "class": "bird",
+        "special_genes": "",
+        "type": "horn",
+        "name": "Wing Horn",
+        "ability_id": "bird-horn-10"
+    },
+    {
+        "part_id": "horn-feather-spear",
+        "class": "bird",
+        "special_genes": "",
+        "type": "horn",
+        "name": "Feather Spear",
+        "ability_id": "bird-horn-12"
+    },
+    {
+        "part_id": "back-balloon",
+        "class": "bird",
+        "special_genes": "",
+        "type": "back",
+        "name": "Balloon",
+        "ability_id": "bird-back-02"
+    },
+    {
+        "part_id": "back-cupid",
+        "class": "bird",
+        "special_genes": "",
+        "type": "back",
+        "name": "Cupid",
+        "ability_id": "bird-back-04"
+    },
+    {
+        "part_id": "back-raven",
+        "class": "bird",
+        "special_genes": "",
+        "type": "back",
+        "name": "Raven",
+        "ability_id": "bird-back-06"
+    },
+    {
+        "part_id": "back-pigeon-post",
+        "class": "bird",
+        "special_genes": "",
+        "type": "back",
+        "name": "Pigeon Post",
+        "ability_id": "bird-back-08"
+    },
+    {
+        "part_id": "back-kingfisher",
+        "class": "bird",
+        "special_genes": "",
+        "type": "back",
+        "name": "Kingfisher",
+        "ability_id": "bird-back-10"
+    },
+    {
+        "part_id": "tail-swallow",
+        "class": "bird",
+        "special_genes": "",
+        "type": "tail",
+        "name": "Swallow",
+        "ability_id": "bird-tail-02"
+    },
+    {
+        "part_id": "back-tri-feather",
+        "class": "bird",
+        "special_genes": "",
+        "type": "back",
+        "name": "Tri Feather",
+        "ability_id": "bird-back-12"
+    },
+    {
+        "part_id": "tail-feather-fan",
+        "class": "bird",
+        "special_genes": "",
+        "type": "tail",
+        "name": "Feather Fan",
+        "ability_id": "bird-tail-04"
+    },
+    {
+        "part_id": "tail-the-last-one",
+        "class": "bird",
+        "special_genes": "",
+        "type": "tail",
+        "name": "The Last One",
+        "ability_id": "bird-tail-06"
+    },
+    {
+        "part_id": "tail-cloud",
+        "class": "bird",
+        "special_genes": "",
+        "type": "tail",
+        "name": "Cloud",
+        "ability_id": "bird-tail-08"
+    },
+    {
+        "part_id": "tail-granmas-fan",
+        "class": "bird",
+        "special_genes": "",
+        "type": "tail",
+        "name": "Granmas Fan",
+        "ability_id": "bird-tail-10"
+    },
+    {
+        "part_id": "tail-post-fight",
+        "class": "bird",
+        "special_genes": "",
+        "type": "tail",
+        "name": "Post Fight",
+        "ability_id": "bird-tail-12"
+    },
+    {
+        "part_id": "mouth-mosquito",
+        "class": "bug",
+        "special_genes": "",
+        "type": "mouth",
+        "name": "Mosquito",
+        "ability_id": "bug-mouth-02"
+    },
+    {
+        "part_id": "mouth-pincer",
+        "class": "bug",
+        "special_genes": "",
+        "type": "mouth",
+        "name": "Pincer",
+        "ability_id": "bug-mouth-04"
+    },
+    {
+        "part_id": "tail-ant",
+        "class": "bug",
+        "special_genes": "",
+        "type": "tail",
+        "name": "Ant",
+        "ability_id": "bug-tail-02"
+    },
+    {
+        "part_id": "mouth-zigzag",
+        "class": "plant",
+        "special_genes": "",
+        "type": "mouth",
+        "name": "Zigzag",
+        "ability_id": "plant-mouth-04"
+    },
+    {
+        "part_id": "tail-carrot",
+        "class": "plant",
+        "special_genes": "",
+        "type": "tail",
+        "name": "Carrot",
+        "ability_id": "plant-tail-02"
+    },
+    {
+        "part_id": "tail-pupae",
+        "class": "bug",
+        "special_genes": "",
+        "type": "tail",
+        "name": "Pupae",
+        "ability_id": "bug-tail-10"
+    },
+    {
+        "part_id": "mouth-herbivore",
+        "class": "plant",
+        "special_genes": "",
+        "type": "mouth",
+        "name": "Herbivore",
+        "ability_id": "plant-mouth-08"
+    },
+    {
+        "part_id": "tail-hatsune",
+        "class": "plant",
+        "special_genes": "",
+        "type": "tail",
+        "name": "Hatsune",
+        "ability_id": "plant-tail-06"
+    },
+    {
+        "part_id": "tail-iguana",
+        "class": "reptile",
+        "special_genes": "",
+        "type": "tail",
+        "name": "Iguana",
+        "ability_id": "reptile-tail-04"
+    },
+    {
+        "part_id": "horn-caterpillars",
+        "class": "bug",
+        "special_genes": "",
+        "type": "horn",
+        "name": "Caterpillars",
+        "ability_id": "bug-horn-06"
+    },
+    {
+        "part_id": "tail-thorny-caterpillar",
+        "class": "bug",
+        "special_genes": "",
+        "type": "tail",
+        "name": "Thorny Caterpillar",
+        "ability_id": "bug-tail-12"
+    },
+    {
+        "part_id": "mouth-serious",
+        "class": "plant",
+        "special_genes": "",
+        "type": "mouth",
+        "name": "Serious",
+        "ability_id": "plant-mouth-02"
+    },
+    {
+        "part_id": "back-bidens",
+        "class": "plant",
+        "special_genes": "",
+        "type": "back",
+        "name": "Bidens",
+        "ability_id": "plant-back-06"
+    },
+    {
+        "part_id": "tail-yam",
+        "class": "plant",
+        "special_genes": "",
+        "type": "tail",
+        "name": "Yam",
+        "ability_id": "plant-tail-08"
+    },
+    {
+        "part_id": "mouth-kotaro",
+        "class": "reptile",
+        "special_genes": "",
+        "type": "mouth",
+        "name": "Kotaro",
+        "ability_id": "reptile-mouth-04"
+    },
+    {
+        "part_id": "tail-tiny-dino",
+        "class": "reptile",
+        "special_genes": "",
+        "type": "tail",
+        "name": "Tiny Dino",
+        "ability_id": "reptile-tail-06"
+    },
+    {
+        "part_id": "mouth-square-teeth",
+        "class": "bug",
+        "special_genes": "",
+        "type": "mouth",
+        "name": "Square Teeth",
+        "ability_id": "bug-mouth-10"
+    },
+    {
+        "part_id": "horn-lagging",
+        "class": "bug",
+        "special_genes": "",
+        "type": "horn",
+        "name": "Lagging",
+        "ability_id": "bug-horn-02"
+    },
+    {
+        "part_id": "tail-gravel-ant",
+        "class": "bug",
+        "special_genes": "",
+        "type": "tail",
+        "name": "Gravel Ant",
+        "ability_id": "bug-tail-08"
+    },
+    {
+        "part_id": "mouth-silence-whisper",
+        "class": "plant",
+        "special_genes": "",
+        "type": "mouth",
+        "name": "Silence Whisper",
+        "ability_id": "plant-mouth-10"
+    },
+    {
+        "part_id": "horn-beech",
+        "class": "plant",
+        "special_genes": "",
+        "type": "horn",
+        "name": "Beech",
+        "ability_id": "plant-horn-04"
+    },
+    {
+        "part_id": "tail-potato-leaf",
+        "class": "plant",
+        "special_genes": "",
+        "type": "tail",
+        "name": "Potato Leaf",
+        "ability_id": "plant-tail-10"
+    },
+    {
+        "part_id": "tail-hot-butt",
+        "class": "plant",
+        "special_genes": "",
+        "type": "tail",
+        "name": "Hot Butt",
+        "ability_id": "plant-tail-12"
+    },
+    {
+        "part_id": "mouth-tiny-turtle",
+        "class": "reptile",
+        "special_genes": "",
+        "type": "mouth",
+        "name": "Tiny Turtle",
+        "ability_id": "reptile-mouth-10"
+    },
+    {
+        "part_id": "tail-wall-gecko",
+        "class": "reptile",
+        "special_genes": "",
+        "type": "tail",
+        "name": "Wall Gecko",
+        "ability_id": "reptile-tail-02"
+    },
+    {
+        "part_id": "horn-antenna",
+        "class": "bug",
+        "special_genes": "",
+        "type": "horn",
+        "name": "Antenna",
+        "ability_id": "bug-horn-04"
+    },
+    {
+        "part_id": "horn-parasite",
+        "class": "bug",
+        "special_genes": "",
+        "type": "horn",
+        "name": "Parasite",
+        "ability_id": "bug-horn-10"
+    },
+    {
+        "part_id": "horn-bamboo-shoot",
+        "class": "plant",
+        "special_genes": "",
+        "type": "horn",
+        "name": "Bamboo Shoot",
+        "ability_id": "plant-horn-02"
+    },
+    {
+        "part_id": "tail-cattail",
+        "class": "plant",
+        "special_genes": "",
+        "type": "tail",
+        "name": "Cattail",
+        "ability_id": "plant-tail-04"
+    },
+    {
+        "part_id": "horn-unko",
+        "class": "reptile",
+        "special_genes": "",
+        "type": "horn",
+        "name": "Unko",
+        "ability_id": "reptile-horn-02"
+    },
+    {
+        "part_id": "back-croc",
+        "class": "reptile",
+        "special_genes": "",
+        "type": "back",
+        "name": "Croc",
+        "ability_id": "reptile-back-12"
+    },
+    {
+        "part_id": "tail-snake-jar",
+        "class": "reptile",
+        "special_genes": "",
+        "type": "tail",
+        "name": "Snake Jar",
+        "ability_id": "reptile-tail-08"
+    },
+    {
+        "part_id": "horn-pliers",
+        "class": "bug",
+        "special_genes": "",
+        "type": "horn",
+        "name": "Pliers",
+        "ability_id": "bug-horn-08"
+    },
+    {
+        "part_id": "tail-fish-snack",
+        "class": "bug",
+        "special_genes": "",
+        "type": "tail",
+        "name": "Fish Snack",
+        "ability_id": "bug-tail-06"
+    },
+    {
+        "part_id": "horn-strawberry-shortcake",
+        "class": "plant",
+        "special_genes": "",
+        "type": "horn",
+        "name": "Strawberry Shortcake",
+        "ability_id": "plant-horn-08"
+    },
+    {
+        "part_id": "back-mint",
+        "class": "plant",
+        "special_genes": "",
+        "type": "back",
+        "name": "Mint",
+        "ability_id": "plant-back-10"
+    },
+    {
+        "part_id": "back-indian-star",
+        "class": "reptile",
+        "special_genes": "",
+        "type": "back",
+        "name": "Indian Star",
+        "ability_id": "reptile-back-08"
+    },
+    {
+        "part_id": "horn-leaf-bug",
+        "class": "bug",
+        "special_genes": "",
+        "type": "horn",
+        "name": "Leaf Bug",
+        "ability_id": "bug-horn-12"
+    },
+    {
+        "part_id": "horn-watermelon",
+        "class": "plant",
+        "special_genes": "",
+        "type": "horn",
+        "name": "Watermelon",
+        "ability_id": "plant-horn-12"
+    },
+    {
+        "part_id": "horn-cerastes",
+        "class": "reptile",
+        "special_genes": "",
+        "type": "horn",
+        "name": "Cerastes",
+        "ability_id": "reptile-horn-06"
+    },
+    {
+        "part_id": "back-snail-shell",
+        "class": "bug",
+        "special_genes": "",
+        "type": "back",
+        "name": "Snail Shell",
+        "ability_id": "bug-back-02"
+    },
+    {
+        "part_id": "horn-rose-bud",
+        "class": "plant",
+        "special_genes": "",
+        "type": "horn",
+        "name": "Rose Bud",
+        "ability_id": "plant-horn-06"
+    },
+    {
+        "part_id": "horn-scaly-spear",
+        "class": "reptile",
+        "special_genes": "",
+        "type": "horn",
+        "name": "Scaly Spear",
+        "ability_id": "reptile-horn-04"
+    },
+    {
+        "part_id": "tail-gila",
+        "class": "reptile",
+        "special_genes": "",
+        "type": "tail",
+        "name": "Gila",
+        "ability_id": "reptile-tail-10"
+    },
+    {
+        "part_id": "mouth-razor-bite",
+        "class": "reptile",
+        "special_genes": "",
+        "type": "mouth",
+        "name": "Razor Bite",
+        "ability_id": "reptile-mouth-08"
+    },
+    {
+        "part_id": "back-garish-worm",
+        "class": "bug",
+        "special_genes": "",
+        "type": "back",
+        "name": "Garish Worm",
+        "ability_id": "bug-back-04"
+    },
+    {
+        "part_id": "back-shiitake",
+        "class": "plant",
+        "special_genes": "",
+        "type": "back",
+        "name": "Shiitake",
+        "ability_id": "plant-back-04"
+    },
+    {
+        "part_id": "horn-incisor",
+        "class": "reptile",
+        "special_genes": "",
+        "type": "horn",
+        "name": "Incisor",
+        "ability_id": "reptile-horn-10"
+    },
+    {
+        "part_id": "tail-grass-snake",
+        "class": "reptile",
+        "special_genes": "",
+        "type": "tail",
+        "name": "Grass Snake",
+        "ability_id": "reptile-tail-12"
+    },
+    {
+        "part_id": "horn-cactus",
+        "class": "plant",
+        "special_genes": "",
+        "type": "horn",
+        "name": "Cactus",
+        "ability_id": "plant-horn-10"
+    },
+    {
+        "part_id": "back-bone-sail",
+        "class": "reptile",
+        "special_genes": "",
+        "type": "back",
+        "name": "Bone Sail",
+        "ability_id": "reptile-back-02"
+    },
+    {
+        "part_id": "back-sandal",
+        "class": "bug",
+        "special_genes": "",
+        "type": "back",
+        "name": "Sandal",
+        "ability_id": "bug-back-08"
+    },
+    {
+        "part_id": "back-turnip",
+        "class": "plant",
+        "special_genes": "",
+        "type": "back",
+        "name": "Turnip",
+        "ability_id": "plant-back-02"
+    },
+    {
+        "part_id": "horn-scaly-spoon",
+        "class": "reptile",
+        "special_genes": "",
+        "type": "horn",
+        "name": "Scaly Spoon",
+        "ability_id": "reptile-horn-08"
+    },
+    {
+        "part_id": "back-buzz-buzz",
+        "class": "bug",
+        "special_genes": "",
+        "type": "back",
+        "name": "Buzz Buzz",
+        "ability_id": "bug-back-06"
+    },
+    {
+        "part_id": "back-tri-spikes",
+        "class": "reptile",
+        "special_genes": "",
+        "type": "back",
+        "name": "Tri Spikes",
+        "ability_id": "reptile-back-04"
+    },
+    {
+        "part_id": "back-scarab",
+        "class": "bug",
+        "special_genes": "",
+        "type": "back",
+        "name": "Scarab",
+        "ability_id": "bug-back-10"
+    },
+    {
+        "part_id": "back-watering-can",
+        "class": "plant",
+        "special_genes": "",
+        "type": "back",
+        "name": "Watering Can",
+        "ability_id": "plant-back-08"
+    },
+    {
+        "part_id": "back-green-thorns",
+        "class": "reptile",
+        "special_genes": "",
+        "type": "back",
+        "name": "Green Thorns",
+        "ability_id": "reptile-back-06"
+    },
+    {
+        "part_id": "back-spiky-wing",
+        "class": "bug",
+        "special_genes": "",
+        "type": "back",
+        "name": "Spiky Wing",
+        "ability_id": "bug-back-12"
+    },
+    {
+        "part_id": "horn-bumpy",
+        "class": "reptile",
+        "special_genes": "",
+        "type": "horn",
+        "name": "Bumpy",
+        "ability_id": "reptile-horn-12"
+    },
+    {
+        "part_id": "mouth-cute-bunny",
+        "class": "bug",
+        "special_genes": "",
+        "type": "mouth",
+        "name": "Cute Bunny",
+        "ability_id": "bug-mouth-08"
+    },
+    {
+        "part_id": "tail-twin-tail",
+        "class": "bug",
+        "special_genes": "",
+        "type": "tail",
+        "name": "Twin Tail",
+        "ability_id": "bug-tail-04"
+    },
+    {
+        "part_id": "back-pumpkin",
+        "class": "plant",
+        "special_genes": "",
+        "type": "back",
+        "name": "Pumpkin",
+        "ability_id": "plant-back-12"
+    },
+    {
+        "part_id": "mouth-toothless-bite",
+        "class": "reptile",
+        "special_genes": "",
+        "type": "mouth",
+        "name": "Toothless Bite",
+        "ability_id": "reptile-mouth-02"
+    },
+    {
+        "part_id": "back-red-ear",
+        "class": "reptile",
+        "special_genes": "",
+        "type": "back",
+        "name": "Red Ear",
+        "ability_id": "reptile-back-10"
+    }
+]

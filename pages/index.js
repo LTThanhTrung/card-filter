@@ -15,11 +15,31 @@ parts.map((item) => {
 
 export default function Home() {
   const [axieParts, setAxieParts] = useState(parts)
-  const [missing, setMissing] = useState(0)
+  const [missing, setMissing] = useState("0")
 
   useEffect(() => {
     const result = axieParts.filter((item) => item.enabled == false);
-    setMissing(result.length)
+    let items = {
+      "back" : 0,
+      "mouth" : 0,
+      "eyes" : 0,
+      "ears" : 0,
+      "tail" : 0,
+      "horn" : 0
+    }
+
+    for(let i = 0; i< result.length ; i++){
+      items[result[i].type] = items[result[i].type] + 1
+    }
+
+    let message = "" + (items['back'] > 0 ? " Back: " + items['back'] : "") 
+    + (items['mouth'] > 0 ? " Mouth: " + items['mouth'] : "") 
+    + (items['eyes'] > 0 ? " Eyes: " + items['eyes'] : " ") 
+    + (items['ears'] > 0 ? " Ears: " + items['ears'] : "") 
+    + (items['tail'] > 0 ? " Tail: " + items['tail'] : "") 
+    + (items['horn'] > 0 ? " Horn: " + items['horn'] : "") 
+
+    setMissing(message)
   }, [axieParts])
 
 
@@ -60,7 +80,7 @@ export default function Home() {
       </Head>
       <Flex justify={'center'} height={'100%'} align={'center'} direction={'column'}>
         <Heading>Card Filter</Heading>
-        <Text>Missing part: {missing}</Text>
+        <Text align={'center'}>Missing part: {missing}</Text>
         <Flex direction={'row'}>
           <Input w={300} placeholder='ronin address' mt={4} onChange={handleChange} />
         </Flex>

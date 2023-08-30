@@ -5,7 +5,6 @@ import axios from "axios"
 export default async function handler(req, res) {
     try {
         const { index, address } = req.body
-        console.log(req.body)
         const query = {
             "query": `query MyQuery { axies( owner: \"${address}\" from: ${index} size: 100 sort: IdAsc ) { results { parts { id } } total }}`,
             "operationName": "MyQuery"

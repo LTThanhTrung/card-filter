@@ -7,24 +7,24 @@ import { useEffect, useState } from 'react'
 import { ethers } from 'ethers'
 import axios from 'axios'
 
+parts.sort((a, b) => a.part_id.localeCompare(b.part_id))
+
 parts.map((item) => {
   item.enabled = false
 })
 
 export default function Home() {
   const [axieParts, setAxieParts] = useState(parts)
-  for(let i = 0 ; i < parts.length ; i ++){
-    console.log(`https://cdn.axieinfinity.com/marketplace-website/asset-icon/parts/${parts[i].part_id}.png`)
-  }
+  const [missing, setMissing] = useState(0)
 
   useEffect(() => {
-    
+    const result = axieParts.filter((item) => item.enabled == false);
+    setMissing(result.length)
   }, [axieParts])
 
 
   const fetchData = async (index = 0, address) => {
     await axios.post('/api/getParts', { index: index, address: address }).then(async (response) => {
-      console.log(response.data)
       let parts = response.data.parts
       let temp = axieParts
       for (let i = 0; i < parts.length; i++) {
@@ -37,7 +37,6 @@ export default function Home() {
       setAxieParts([...temp])
 
       if (response.data.hasNext) {
-        console.log("HERE")
         await fetchData(index + 100, address)
       }
     })
@@ -61,6 +60,7 @@ export default function Home() {
       </Head>
       <Flex justify={'center'} height={'100%'} align={'center'} direction={'column'}>
         <Heading>Card Filter</Heading>
+        <Text>Missing part: {missing}</Text>
         <Flex direction={'row'}>
           <Input w={300} placeholder='ronin address' mt={4} onChange={handleChange} />
         </Flex>

@@ -1,12 +1,11 @@
 import Head from 'next/head'
-import Image from 'next/image'
 import Card from '@/components/card'
-import { Flex, Heading, Input, Box, Text, SimpleGrid } from '@chakra-ui/react'
+import { Flex, Heading, Input, useColorMode, Text, SimpleGrid } from '@chakra-ui/react'
 import parts from './parts.json'
 import { useEffect, useState } from 'react'
 import { ethers } from 'ethers'
 import axios from 'axios'
-
+import { SunIcon } from '@chakra-ui/icons'
 parts.sort((a, b) => a.part_id.localeCompare(b.part_id))
 
 parts.map((item) => {
@@ -16,28 +15,29 @@ parts.map((item) => {
 export default function Home() {
   const [axieParts, setAxieParts] = useState(parts)
   const [missing, setMissing] = useState("0")
+  const { toggleColorMode } = useColorMode()
 
   useEffect(() => {
     const result = axieParts.filter((item) => item.enabled == false);
     let items = {
-      "back" : 0,
-      "mouth" : 0,
-      "eyes" : 0,
-      "ears" : 0,
-      "tail" : 0,
-      "horn" : 0
+      "back": 0,
+      "mouth": 0,
+      "eyes": 0,
+      "ears": 0,
+      "tail": 0,
+      "horn": 0
     }
 
-    for(let i = 0; i< result.length ; i++){
+    for (let i = 0; i < result.length; i++) {
       items[result[i].type] = items[result[i].type] + 1
     }
 
-    let message = "" + (items['back'] > 0 ? " Back: " + items['back'] : "") 
-    + (items['mouth'] > 0 ? " Mouth: " + items['mouth'] : "") 
-    + (items['eyes'] > 0 ? " Eyes: " + items['eyes'] : " ") 
-    + (items['ears'] > 0 ? " Ears: " + items['ears'] : "") 
-    + (items['tail'] > 0 ? " Tail: " + items['tail'] : "") 
-    + (items['horn'] > 0 ? " Horn: " + items['horn'] : "") 
+    let message = "" + (items['back'] > 0 ? " Back: " + items['back'] : "")
+      + (items['mouth'] > 0 ? " Mouth: " + items['mouth'] : "")
+      + (items['eyes'] > 0 ? " Eyes: " + items['eyes'] : " ")
+      + (items['ears'] > 0 ? " Ears: " + items['ears'] : "")
+      + (items['tail'] > 0 ? " Tail: " + items['tail'] : "")
+      + (items['horn'] > 0 ? " Horn: " + items['horn'] : "")
 
     setMissing(message)
   }, [axieParts])
@@ -79,7 +79,10 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Flex justify={'center'} height={'100%'} align={'center'} direction={'column'}>
-        <Heading>Card Filter</Heading>
+        <Flex direction={'row'} align={'center'}>
+          <Heading mr={4}>Card Filter</Heading>
+          <SunIcon onClick={toggleColorMode} cursor={'pointer'}/>
+        </Flex>
         <Text align={'center'}>Missing part: {missing}</Text>
         <Flex direction={'row'}>
           <Input w={300} placeholder='ronin address' mt={4} onChange={handleChange} />
